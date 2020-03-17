@@ -1,1 +1,3 @@
-# electronic_store
+# Electronic Store
+
+!ui.gif
