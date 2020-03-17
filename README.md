@@ -1,3 +1,2 @@
 # Electronic Store
-
-!ui.gif
+![](ui.gif)
